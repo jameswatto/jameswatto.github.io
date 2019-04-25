@@ -100,7 +100,7 @@ img{
 .showcase{
     grid-area: showcase;
     min-height: 400px;
-    background: url(img/1.JPG);
+    background: url(1.JPG);
     background-size: contain;
     background-position: center;
     padding: 0.5rem;
